@@ -1,3 +1,4 @@
+//Não sabia o que mudar, troquei as sprites... Estou comproblemas em estourar as cordas, mas vou estar atualizando o programa!
 const Engine = Matter.Engine;
 const Render = Matter.Render;
 const World = Matter.World;
